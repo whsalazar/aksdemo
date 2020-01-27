@@ -16,7 +16,7 @@ env:
   REGISTRY_NAME: aksdemoga
   CLUSTER_NAME: aksdemoga
   CLUSTER_RESOURCE_GROUP: mc-aksdemoga-rg
-  NAMESPACE: default
+  NAMESPACE: aksdemo
   
 jobs:
   build:
