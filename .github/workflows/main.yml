@@ -15,7 +15,7 @@ on: [push]
 env:
   REGISTRY_NAME: aksdemoga
   CLUSTER_NAME: aksdemoga
-  CLUSTER_RESOURCE_GROUP: MC_aks-github-rg_aksdemoga_westus
+  CLUSTER_RESOURCE_GROUP: aks-github-rg
   NAMESPACE: aksdemo
   
 jobs:
